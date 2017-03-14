@@ -1,1 +1,6 @@
-*.out
+*.o
+primes
+primes-i
+primes-inline
+
+
